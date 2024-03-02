@@ -1,0 +1,9 @@
+# common gitignore for python and cpp
+*.pyc
+*.pyo
+*.pyd
+*.o
+*.so
+*.dll
+*.log
+*.out
